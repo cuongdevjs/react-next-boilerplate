@@ -44,7 +44,7 @@
     "invariant": "2.2.4",
     "lodash": "^4.17.15",
     "next": "^9.3.4",
-    "next-i18next": "^4.2.1",
+    "next-i18next": "^8.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
