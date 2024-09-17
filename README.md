@@ -1,3 +1,5 @@
+> **⚠️ WARNING:** This repository is no longer maintained. We recommend migrating to [new repo](https://github.com/wootsbot/X-boilerplate) for the latest updates and support.
+
 [![react-next-boilerplate](./docs/images/nv-rnb.png)](https://www.reactnextboilerplate.com/)
 
 <div align="center">
